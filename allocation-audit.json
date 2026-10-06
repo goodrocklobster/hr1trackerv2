@@ -1,0 +1,128 @@
+{
+  "house": {
+    "excluded": [
+      {
+        "county": "09140",
+        "cousub23": "46520",
+        "sldl26": "083",
+        "CountyName": "Naugatuck Valley Planning Region, CT",
+        "MCDName": "0914046520",
+        "pop20": "726",
+        "afact": "1 "
+      },
+      {
+        "county": "09170",
+        "cousub23": "14160",
+        "sldl26": "083",
+        "CountyName": "South Central Connecticut Planning Region, CT",
+        "MCDName": "0917014160",
+        "pop20": "726",
+        "afact": "1 "
+      }
+    ],
+    "normalizedTowns": [
+      [
+        "East Hartford",
+        0.9999
+      ],
+      [
+        "Hartford",
+        0.9999
+      ],
+      [
+        "Bridgeport",
+        1.0001
+      ],
+      [
+        "Fairfield",
+        0.9999
+      ],
+      [
+        "Bristol",
+        1.0001
+      ],
+      [
+        "Meriden",
+        1.0001
+      ],
+      [
+        "Wallingford",
+        1.0001
+      ],
+      [
+        "West Haven",
+        1.0001
+      ],
+      [
+        "Ledyard",
+        0.9999
+      ],
+      [
+        "Danbury",
+        0.9998999999999999
+      ]
+    ],
+    "districts": 151
+  },
+  "senate": {
+    "excluded": [
+      {
+        "county": "09140",
+        "cousub23": "46520",
+        "sldu26": "013",
+        "CountyName": "Naugatuck Valley Planning Region, CT",
+        "MCDName": "0914046520",
+        "pop20": "726",
+        "afact": "1 "
+      },
+      {
+        "county": "09170",
+        "cousub23": "14160",
+        "sldu26": "013",
+        "CountyName": "South Central Connecticut Planning Region, CT",
+        "MCDName": "0917014160",
+        "pop20": "726",
+        "afact": "1 "
+      }
+    ],
+    "normalizedTowns": [
+      [
+        "Hartford",
+        0.9999
+      ],
+      [
+        "Darien",
+        0.9999
+      ],
+      [
+        "Stamford",
+        0.9999
+      ]
+    ],
+    "districts": 36
+  },
+  "congress": {
+    "excluded": [
+      {
+        "county": "09140",
+        "cousub23": "46520",
+        "cd120": "05",
+        "CountyName": "Naugatuck Valley Planning Region, CT",
+        "MCDName": "0914046520",
+        "pop20": "726",
+        "afact": "1 "
+      },
+      {
+        "county": "09170",
+        "cousub23": "14160",
+        "cd120": "05",
+        "CountyName": "South Central Connecticut Planning Region, CT",
+        "MCDName": "0917014160",
+        "pop20": "726",
+        "afact": "1 "
+      }
+    ],
+    "normalizedTowns": [],
+    "districts": 5
+  }
+}
